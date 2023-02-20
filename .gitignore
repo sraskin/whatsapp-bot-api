@@ -6,3 +6,4 @@ downloaded-media/
 
 /.wwebjs_auth/*
 /package-lock.json
+/.wwebjs_auth
