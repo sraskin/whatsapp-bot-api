@@ -1,0 +1,8 @@
+node_modules
+whatsapp-session*.json
+downloaded-media/
+/image-example.png
+.idea
+
+/.wwebjs_auth/*
+/package-lock.json
